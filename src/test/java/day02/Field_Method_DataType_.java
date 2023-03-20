@@ -74,6 +74,8 @@ public class Field_Method_DataType_ {
     public static void main(String[] args) {
 
 
+
+
         mt1();
 
         System.out.println(mt2());
